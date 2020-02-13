@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="HierarchicalNav.MainPage" Title="Page 2">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button x:Name="secondpgbutton" Text="Click here to browse more!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="NextPage" />
+        <Button x:Name"backpgbutton" Text=""Clicked=" here to go back" HorizontalOptions="End" VerticalOptions=""
+    </StackLayout>
+</ContentPage>

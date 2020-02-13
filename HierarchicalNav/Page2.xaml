@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HierarchicalNav.Page2" >
+    <ContentPage.Content>
+      <Frame BorderColor="Orange">
+        <StackLayout>
+        <!-- Place new controls here -->
+            <Image Source="Athena.jpeg"></Image>
+             <Label TextColor="Black" FontSize="10">
+                 <Label.Text>
+                   Athena #650164
+Vietnamese Potbelly
+Female | Age Unknown | 70 lbs
+Adoption Fee: $50.00
+San Diego Humane Society
+         
+                 </Label.Text>
+             </Label>
+             <Button x:Name="secondpgbutton"  TextColor="Black" Text="Click here to browse more!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Orange" Clicked="OnNextPage"/>
+        <!--<Button x:Name="backpgbutton" Text="Click here to go back!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="OnBackPage"/>-->
+        </StackLayout>
+       </Frame>
+    </ContentPage.Content>
+</ContentPage>

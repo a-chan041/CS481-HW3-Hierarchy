@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{56E341D3-FC47-4EE4-BA32-374FA7B7E470}|Default">
+  <MonoDevelop.Ide.ItemProperties.HierarchicalNav.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HierarchicalNav/Page5.xaml">
+    <Files>
+      <File FileName="HierarchicalNav/Page2.xaml" Line="18" Column="184" IsPinned="True" />
+      <File FileName="HierarchicalNav/Page4.xaml" Line="5" Column="76" />
+      <File FileName="HierarchicalNav/Page5.xaml" Line="10" Column="25" />
+      <File FileName="HierarchicalNav/Page2.xaml.cs" Line="22" Column="12" />
+      <File FileName="HierarchicalNav/Page4.xaml.cs" Line="1" Column="1" />
+      <File FileName="HierarchicalNav/Page5.xaml.cs" Line="13" Column="10" />
+      <File FileName="HierarchicalNav/Page1.xaml" Line="8" Column="1" />
+      <File FileName="HierarchicalNav/Page1.xaml.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HierarchicalNav" expanded="True">
+            <Node name="HierarchicalNav" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="Page1.xaml" expanded="True" />
+              <Node name="Page2.xaml" expanded="True" />
+              <Node name="Page4.xaml" expanded="True" />
+              <Node name="Page5.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="HierarchicalNav.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="HierarchicalNav.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

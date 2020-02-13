@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HierarchicalNav.Page4">
+    <ContentPage.Content>
+      <Frame BorderColor="Orange">
+        <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand">
+          <StackLayout>
+            <Image Source="moose.jpeg"></Image>
+            <Label FontSize="10" TextColor="Black">
+                <Label.Text>
+     Moose Tracks #651788
+Domestic Short Hair
+Female | 4 Yrs 0 Mths | 10.42 lbs
+Adoption Fee: $25.00
+San Diego Humane Society
+                </Label.Text>
+            </Label>
+            <Button  x:Name="pg4button" Text="Click here to browse more!! " HorizontalOptions="Center" BackgroundColor="Orange" TextColor="Black" VerticalOptions="CenterAndExpand" Clicked="ToFinalPage"></Button>
+        </StackLayout>
+       </ScrollView>
+     </Frame>
+    </ContentPage.Content>
+</ContentPage>
