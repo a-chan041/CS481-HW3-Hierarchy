@@ -16,5 +16,10 @@ namespace HierarchicalNav
         {
             await Navigation.PopToRootAsync();
         }
+
+        async void Adoption(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new AdoptionPage());
+        }
     }
 }

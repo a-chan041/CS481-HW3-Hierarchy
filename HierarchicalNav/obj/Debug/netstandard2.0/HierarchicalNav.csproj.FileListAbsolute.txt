@@ -2,7 +2,9 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/bin/Debug/netstandard2.0/HierarchicalNav.dll
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/bin/Debug/netstandard2.0/ref/HierarchicalNav.dll
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/bin/Debug/netstandard2.0/HierarchicalNav.pdb
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/AdoptionPage.xaml.g.cs
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/navipage.xaml.g.cs
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/Page1.xaml.g.cs
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/Page2.xaml.g.cs
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/Page4.xaml.g.cs

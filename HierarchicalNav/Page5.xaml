@@ -4,12 +4,6 @@
        <Frame BorderColor="Orange">
         <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand">
             <StackLayout>
-                <Label  VerticalOptions="StartAndExpand" HorizontalTextAlignment="Center" TextColor="Black" FontSize="15">
-                <Label.Text>
-                        You've reached the end!
- Thank you for Adopting.
-                </Label.Text>
-                </Label>
                 <Image Source="Suri.jpeg"></Image>
                 <Label VerticalOptions="CenterAndExpand" TextColor="Black" FontSize="10">
                 <Label.Text>
@@ -20,6 +14,7 @@ Adoption Fee: $95.00
 San Diego Humane Society
                </Label.Text>
              </Label>
+             <Button Text= "Adopt Me!" ImageSource="Doghouse.png" BackgroundColor="Orange" Clicked="Adoption"></Button>
              <Button Text="Back to Main Page" BackgroundColor="Orange" TextColor="Black" Clicked="BacktoHome"></Button>
             </StackLayout>
        </ScrollView>
