@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HierarchicalNav.Page2" >
     <ContentPage.Content>
       <Frame BorderColor="Orange">
+       <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand">
         <StackLayout>
         <!-- Place new controls here -->
             <Image Source="Athena.jpeg"></Image>
@@ -15,9 +16,11 @@ San Diego Humane Society
          
                  </Label.Text>
              </Label>
+             <Button Text= "Adopt Me!" ImageSource="Doghouse.png" BackgroundColor="Orange" Clicked="Adoption"></Button>
              <Button x:Name="secondpgbutton"  TextColor="Black" Text="Click here to browse more!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" BackgroundColor="Orange" Clicked="OnNextPage"/>
         <!--<Button x:Name="backpgbutton" Text="Click here to go back!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Clicked="OnBackPage"/>-->
         </StackLayout>
-       </Frame>
+       </ScrollView>
+      </Frame>
     </ContentPage.Content>
 </ContentPage>

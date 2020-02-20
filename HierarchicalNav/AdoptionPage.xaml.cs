@@ -14,7 +14,7 @@ namespace HierarchicalNav
 
         async void OnAppearing(object sender, System.EventArgs e)
         {
-            await DisplayAlert("Thank You", "for welcoming Suri to your furr-ever home", "OK");
+            await DisplayAlert("Thank You", "for welcoming our furry friend to your furr-ever home", "OK");
         }
 
     }

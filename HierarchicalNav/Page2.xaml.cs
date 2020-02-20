@@ -16,7 +16,11 @@ namespace HierarchicalNav
         {
             await Navigation.PushAsync(new Page4());
         }
-       
+
+        async void Adoption(object sender, EventArgs e) //goes to the adoption page of the app
+        {
+            await Navigation.PushAsync(new AdoptionPage());
+        }
     }
 
 }

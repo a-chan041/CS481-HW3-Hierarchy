@@ -22,6 +22,11 @@ namespace HierarchicalNav
 
             await Navigation.PopAsync();
         }
-        
+
+        async void Policy(object sender, EventArgs e) //goes to the adoption page of the app
+        {
+            await Navigation.PushAsync(new AdoptionPage());
+        }
+
     }
 }

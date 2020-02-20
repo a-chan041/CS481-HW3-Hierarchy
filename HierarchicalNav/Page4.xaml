@@ -14,6 +14,7 @@ Adoption Fee: $25.00
 San Diego Humane Society
                 </Label.Text>
             </Label>
+            <Button Text= "Adopt Me!" ImageSource="Doghouse.png" BackgroundColor="Orange" Clicked="Policy"></Button>
             <Button  x:Name="pg4button" Text="Click here to browse more!! " HorizontalOptions="Center" BackgroundColor="Orange" TextColor="Black" VerticalOptions="CenterAndExpand" Clicked="ToFinalPage"></Button>
         </StackLayout>
        </ScrollView>

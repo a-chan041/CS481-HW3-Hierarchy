@@ -68,6 +68,7 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/res/drawable/moose.jpeg
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/res/drawable/suri.jpeg
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/res/drawable/doghouse.png
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/res/drawable/humane.jpeg
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/uploadflags.txt
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/resolvedassemblies.hash
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/assets/FormsViewGroup.dll
@@ -247,11 +248,9 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/v7/app/AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
-/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/transition/R.java
-/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/design/widget/Snackbar_SnackbarActionClickImplementor.java
-/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/design/R.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64ee7559050d7253b3/MainActivity.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc6414252951f3f66c67/RecyclerViewScrollListener_2.java
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/transition/R.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/NavigationPageRenderer_DrawerMultiplexedListener.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FrameRenderer.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/FormsViewPager.java
@@ -271,10 +270,12 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/MasterDetailContainer.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/PickerRendererBase_1.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/SwitchRenderer.java
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/design/widget/Snackbar_SnackbarActionClickImplementor.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64ee486da937c010f4/FrameRenderer.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64ee486da937c010f4/ButtonRenderer.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64ee486da937c010f4/LabelRenderer.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64ee486da937c010f4/ImageRenderer.java
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/android/support/design/R.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/EnergySaverBroadcastReceiver.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/MagnetometerListener.java
@@ -288,7 +289,6 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/OrientationSensorListener.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BatteryBroadcastReceiver.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/GyroscopeListener.java
-/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/ShellSearchViewAdapter_ObjectWrapper.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StructuredItemsViewAdapter_2.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/NativeViewWrapperRenderer.java
@@ -445,6 +445,7 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormsWebChromeClient.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/FormattedStringExtensions_LineHeightSpan.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/StepperRenderer.java
+/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/xamarin/essentials/fileProvider.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a98abb514ffad9f1/KeepAliveService.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/src/crc64a98abb514ffad9f1/CustomTabsServiceConnectionImpl.java
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/android/bin/packaged_resources
@@ -475,4 +476,3 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
-/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav.Android/obj/Debug/res/drawable/humane.jpeg
