@@ -12,12 +12,12 @@ namespace HierarchicalNav
             InitializeComponent();
         }
 
-        async void BacktoHome(object sender, EventArgs e)
+        async void BacktoHome(object sender, EventArgs e) //since on last page, pops back to main welcome page
         {
             await Navigation.PopToRootAsync();
         }
 
-        async void Adoption(object sender, EventArgs e)
+        async void Adoption(object sender, EventArgs e) //goes to next page, one page deeper, the adoption page
         {
             await Navigation.PushAsync(new AdoptionPage());
         }

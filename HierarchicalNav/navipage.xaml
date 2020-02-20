@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HierarchicalNav.navipage" Title="Navigation">
     <ContentPage.Content>
+       <Frame BorderColor="Orange">
         <StackLayout>
             <Button Text="Athena" Clicked="page2" BackgroundColor="Orange" TextColor="Black" VerticalOptions="Start"></Button>
             <Button Text="Moose" Clicked="page3" BackgroundColor="Orange" TextColor="Black" VerticalOptions="Center"></Button>
             <Button Text="Suri" Clicked="pagelast" BackgroundColor="Orange" TextColor="Black" VerticalOptions="End"></Button>
         </StackLayout>
+       </Frame>
     </ContentPage.Content>
 </ContentPage>

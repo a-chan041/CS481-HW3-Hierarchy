@@ -1,7 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HierarchicalNav.AdoptionPage" Title="Adoption Process" Appearing="OnAppearing">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HierarchicalNav.AdoptionPage" Title="Adoption Policy" Appearing="OnAppearing">
     <ContentPage.Content>
-      <StackLayout>
-      </StackLayout>
+      <Frame BorderColor="Orange">
+        <ScrollView Orientation="Vertical" VerticalOptions="FillAndExpand">
+          <StackLayout>
+              <Image Source="humane.jpeg"></Image>
+              <Label Text="Please see below for our Adoption Policy" FontSize="12" TextColor="Black"></Label>
+             <Label LineBreakMode="CharacterWrap" HorizontalTextAlignment="Start" TextColor="Black" FontSize="10">
+              <Label.Text>
+              We promote a respectful, conversation-based adoption program that strives to:
+     1.) provide exceptional guest services; educate prospective adopters;
+     2.) assist in matching people with a pet who best suits their lifestyle expectations.
+
+We ensure all pets receive special care and service. Each pet entering our shelters receives a examination by our professionally trained staff members.
+
+We make every attempt to determine if an animal has any medical conditions while in our care.
+
+All pets available for adoption are considered healthy/treatable and manageable/treatable and capable of being rehabilitated.
+
+We collect adoption fees to assist in the daily care and on-going needs of each pet admitted to SDHS.
+
+“Love your new pet...or let us know. We're committed to finding adopters their best pet match.”
+              </Label.Text>
+             </Label>
+            <Label Text="information courtesy of sdhumane.org" FontSize="Micro" TextColor="red" HorizontalTextAlignment="Center"></Label>
+          </StackLayout>
+        </ScrollView>
+      </Frame>
     </ContentPage.Content>
 </ContentPage>

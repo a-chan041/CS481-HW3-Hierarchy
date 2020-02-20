@@ -12,7 +12,7 @@ namespace HierarchicalNav
             InitializeComponent();
         }
 
-        async void OnNextPage (object sender, EventArgs e)
+        async void OnNextPage (object sender, EventArgs e) //goes to next page (navigation page)
         {
 
             await Navigation.PushAsync(new navipage());

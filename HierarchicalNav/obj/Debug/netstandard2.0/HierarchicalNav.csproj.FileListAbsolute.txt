@@ -15,4 +15,3 @@
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/HierarchicalNav.dll
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/ref/HierarchicalNav.dll
 /Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/HierarchicalNav.pdb
-/Users/amandachan/Projects/HierarchicalNav/HierarchicalNav/obj/Debug/netstandard2.0/HierarchicalNav.csprojAssemblyReference.cache

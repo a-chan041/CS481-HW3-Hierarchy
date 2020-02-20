@@ -12,14 +12,11 @@ namespace HierarchicalNav
             InitializeComponent();
         }
 
-        async void OnNextPage(object sender, EventArgs e)
+        async void OnNextPage(object sender, EventArgs e) //goes to next page, Page 4, Moose
         {
             await Navigation.PushAsync(new Page4());
         }
-       /* async void OnBackPage(object sender, EventArgs e)
-        {
-           await Navigation.PopAsync();
-        }*/
+       
     }
 
 }

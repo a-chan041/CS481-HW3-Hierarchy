@@ -11,13 +11,13 @@ namespace HierarchicalNav
         {
             InitializeComponent();
         }
-        async void ToFinalPage(object sender, EventArgs e)
+        async void ToFinalPage(object sender, EventArgs e) //goes to last page of pets, Suri
         {
 
             await Navigation.PushAsync(new Page5());
         }
 
-        async void ToPrevious(object sender, EventArgs e)
+        async void ToPrevious(object sender, EventArgs e) //allows movement to previously visited page
         {
 
             await Navigation.PopAsync();

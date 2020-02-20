@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{56E341D3-FC47-4EE4-BA32-374FA7B7E470}|Default">
   <MonoDevelop.Ide.ItemProperties.HierarchicalNav.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HierarchicalNav/navipage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HierarchicalNav/navipage.xaml.cs">
     <Files>
-      <File FileName="HierarchicalNav/Page2.xaml" Line="18" Column="184" IsPinned="True" />
-      <File FileName="HierarchicalNav/Page4.xaml" />
-      <File FileName="HierarchicalNav/Page2.xaml.cs" />
-      <File FileName="HierarchicalNav/Page4.xaml.cs" />
-      <File FileName="HierarchicalNav/Page5.xaml.cs" />
-      <File FileName="HierarchicalNav/Page1.xaml" />
-      <File FileName="HierarchicalNav/Page1.xaml.cs" />
+      <File FileName="HierarchicalNav/Page2.xaml" Line="4" Column="35" IsPinned="True" />
+      <File FileName="HierarchicalNav/Page4.xaml" Line="14" Column="25" />
+      <File FileName="HierarchicalNav/Page2.xaml.cs" Line="15" Column="93" />
+      <File FileName="HierarchicalNav/Page4.xaml.cs" Line="20" Column="103" />
+      <File FileName="HierarchicalNav/Page5.xaml.cs" Line="20" Column="112" />
+      <File FileName="HierarchicalNav/Page1.xaml" Line="6" Column="29" />
+      <File FileName="HierarchicalNav/Page1.xaml.cs" Line="15" Column="97" />
       <File FileName="HierarchicalNav/Page5.xaml" />
-      <File FileName="HierarchicalNav/AdoptionPage.xaml" />
-      <File FileName="HierarchicalNav/AdoptionPage.xaml.cs" />
-      <File FileName="HierarchicalNav/navipage.xaml" Line="11" Column="1" />
-      <File FileName="HierarchicalNav/navipage.xaml.cs" />
+      <File FileName="HierarchicalNav/AdoptionPage.xaml" Line="25" Column="130" />
+      <File FileName="HierarchicalNav/AdoptionPage.xaml.cs" Line="20" Column="6" />
+      <File FileName="HierarchicalNav/navipage.xaml" Line="13" Column="1" />
+      <File FileName="HierarchicalNav/navipage.xaml.cs" Line="15" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,7 +22,9 @@
             <Node name="HierarchicalNav" expanded="True">
               <Node name="AdoptionPage.xaml" expanded="True" />
               <Node name="App.xaml" expanded="True" />
-              <Node name="navipage.xaml" expanded="True" selected="True" />
+              <Node name="navipage.xaml" expanded="True">
+                <Node name="navipage.xaml.cs" selected="True" />
+              </Node>
               <Node name="Page1.xaml" expanded="True" />
               <Node name="Page2.xaml" expanded="True" />
               <Node name="Page4.xaml" expanded="True" />

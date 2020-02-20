@@ -3,7 +3,7 @@
      <Frame BorderColor="Orange">
         <StackLayout BackgroundColor="White">
            <Label x:Name="synopsis" TextColor="Black" FontSize="15" VerticalOptions="Center" HorizontalOptions="Center">
-               <Label.Text>
+               <Label.Text> 
                    Welcome to the SD Humane
 Society Virtual Adoption App!
                </Label.Text>
